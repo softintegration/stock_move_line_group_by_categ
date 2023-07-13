@@ -1,0 +1,36 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* stock_move_line_group_by_categ
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 15.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-07-13 16:55+0000\n"
+"PO-Revision-Date: 2023-07-13 16:55+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: stock_move_line_group_by_categ
+#: model:ir.model.fields,field_description:stock_move_line_group_by_categ.field_stock_move_line__categ_id
+msgid "Product Category"
+msgstr "Catégorie d'article"
+
+#. module: stock_move_line_group_by_categ
+#: model:ir.model,name:stock_move_line_group_by_categ.model_stock_move_line
+msgid "Product Moves (Stock Move Line)"
+msgstr "Mouvements d'article (Ligne de mouvement de stock)"
+
+#. module: stock_move_line_group_by_categ
+#: model_terms:ir.ui.view,arch_db:stock_move_line_group_by_categ.stock_move_line_view_search_inherited
+msgid "Product category"
+msgstr "Catégorie d'article"
+
+#. module: stock_move_line_group_by_categ
+#: model:ir.model.fields,help:stock_move_line_group_by_categ.field_stock_move_line__categ_id
+msgid "Select category for the current product"
+msgstr "Sélectionnez la catégorie pour cet article"
